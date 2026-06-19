@@ -28,12 +28,7 @@ The project uses the Kaggle Crop Recommendation Dataset, which includes soil nut
 
 ## Integrated Workflow
 
-```text
-Soil/environment inputs
--> crop recommendation
--> nutrient/fertilizer analysis
--> soil/resource readiness recommendations
-```
+Soil/environment inputs lead to crop recommendation, followed by nutrient and fertilizer analysis, and then soil and resource readiness recommendations.
 
 ## Scope Boundary
 
